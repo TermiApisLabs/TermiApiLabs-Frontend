@@ -1,4 +1,6 @@
 commit_changes.sh
+firebase.json
+.firebaserc
 # Miscellaneous
 *.class
 *.log
